@@ -22,9 +22,6 @@ namespace danrakuG01 {
         internal Microsoft.Office.Tools.SmartTagCollection VstoSmartTags;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Tools.Office.ProgrammingModel.dll", "16.0.0.0")]
-        private global::System.Object missing = global::System.Type.Missing;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Tools.Office.ProgrammingModel.dll", "16.0.0.0")]
         internal Microsoft.Office.Interop.Word.Application Application;
         
         /// 

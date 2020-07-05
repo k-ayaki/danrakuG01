@@ -543,16 +543,31 @@ namespace danrakuG01
             rng.StartOf(WdUnits.wdParagraph, WdMovementType.wdExtend);
             rng.EndOf(WdUnits.wdParagraph, WdMovementType.wdExtend);
         }
+        // プログラムによって文書内のテキストを検索および置換する
+        // https://docs.microsoft.com/ja-jp/visualstudio/vsto/how-to-programmatically-search-for-and-replace-text-in-documents?view=vs-2019
+        // プログラムによって検索後に選択を復元する
+        //https://docs.microsoft.com/ja-jp/visualstudio/vsto/how-to-programmatically-restore-selections-after-searches?view=vs-2019
         public void 垂直タブを改行に(Document doc)
         {
-            Range rng = doc.Range(0, 0);
-            rng.Find.MatchWildcards = false;
-            while (rng.Find.Execute("\x0b"))
-            {
-                rng.Find.Text = "\r";
-                rng.SetRange(rng.End, rng.End);
-            }
-        }
+            object missing = null;
+
+            Range rangeSave = doc.Application.Selection.Range;
+            doc.Application.Selection.WholeStory();
+            Find findObject = doc.Application.Selection.Find;
+            findObject.ClearFormatting();
+            findObject.Text = "^l";
+            findObject.Replacement.ClearFormatting();
+            findObject.Replacement.Text = "^p";
+            findObject.MatchFuzzy = false;
+            findObject.Forward = true;
+            object findtext = "^l";
+            object replacetext = "^p";
+            object replaceAll = WdReplace.wdReplaceAll;
+            findObject.Execute(ref findtext, ref missing, ref missing, ref missing, ref missing,
+                ref missing, ref missing, ref missing, ref missing, ref replacetext,
+                ref replaceAll, ref missing, ref missing, ref missing, ref missing);
+            rangeSave.Select();
+         }
 
         // 開始位置をトリミング
         // matchesで指定された文字以外が出現するまでトリミング
