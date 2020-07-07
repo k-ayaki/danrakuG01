@@ -168,11 +168,11 @@ namespace danrakuG01
                 {
                     直前への段落番号挿入(paraCurr);
                 }
-                else if (文末の句点判定(paraPrev) == true && 6 <= 項目までの行数)
+                else if (文末の句点判定(paraPrev) == true && 4 <= 項目までの行数)
                 {
                     直前への段落番号挿入(paraCurr);
                 }
-                else if (10 <= 項目までの行数)
+                else if (5 <= 項目までの行数)
                 {
                     直前への段落番号挿入(paraCurr);
                 }

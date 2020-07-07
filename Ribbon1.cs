@@ -22,6 +22,7 @@ namespace danrakuG01
 
             var myPatDoc = new patDoc();
             //myPatDoc.G_段落番号付与(doc);
+
             if (doc.TrackRevisions == true)
             {
                 System.Windows.Forms.MessageBox.Show("変更履歴の記録をオフしてくたさい");
@@ -180,7 +181,6 @@ namespace danrakuG01
         {
             Document doc = danrakuG01.Globals.ThisAddIn.Application.ActiveDocument;
             var myPatDoc = new patDoc();
-
             if (doc.TrackRevisions == true)
             {
                 System.Windows.Forms.MessageBox.Show("変更履歴の記録をオフしてくたさい");
@@ -277,7 +277,6 @@ namespace danrakuG01
         {
             Document doc = danrakuG01.Globals.ThisAddIn.Application.ActiveDocument;
             var myPatDoc = new patDoc();
-
             if (doc.TrackRevisions == true)
             {
                 System.Windows.Forms.MessageBox.Show("変更履歴の記録をオフしてくたさい");
