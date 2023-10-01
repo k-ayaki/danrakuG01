@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "danrakuG01", "danrakuG01\danrakuG01.csproj", "{2FD9A509-1815-45DD-967F-E72456CE3F22}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OfficeAddinSetup", "OfficeAddinSetup\OfficeAddinSetup.vdproj", "{0FCCA01D-051F-4BFA-BF03-E4EEB4258C54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD9A509-1815-45DD-967F-E72456CE3F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD9A509-1815-45DD-967F-E72456CE3F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD9A509-1815-45DD-967F-E72456CE3F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD9A509-1815-45DD-967F-E72456CE3F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCCA01D-051F-4BFA-BF03-E4EEB4258C54}.Debug|Any CPU.ActiveCfg = Debug
+		{0FCCA01D-051F-4BFA-BF03-E4EEB4258C54}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC54CCC8-9451-47E4-9E8B-80401D0F3172}
+	EndGlobalSection
+EndGlobal

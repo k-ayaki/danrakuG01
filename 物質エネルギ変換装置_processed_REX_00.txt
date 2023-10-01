@@ -1,0 +1,70 @@
+
+ <udf__>明細書
+ <udf__>物質エネルギ変換装置
+ <udf__>
+ <udf__>　
+ <udf__>　 <nou__>本発明 <prp__>は <sym__>、 <nou__>物質 <prp__>を <ele_1>エネルギ <prp__>に <vrb__>変換 <vok__>する <ele_1>物質エネルギ変換装置 <prp__>である <sym__>。 <udf__>
+ <udf__>
+ <udf__>　
+ <udf__>　 <nou__>従来 <cnj__>、 <ele_1>エネルギ <prp__>を <adj__>得る <adk__>に <udf__>は、 <nou__>化学反応 <cnj__>または <nou__>核反応 <prp__>を <vrb__>用い <vok__>る <nou__>必要 <prp__>が <udf__>あり、 <nou__>効率 <prp__>が <adj__>悪 <adk__>かった <sym__>。 <udf__>
+ <udf__>　
+ <udf__>　 <nou__>非特許文献 <nmb__>１ <prp__>には <sym__>、 <nou__>反物質 <prp__>が <nou__>物質 <cnj__>と <udf__>合わさって <adj__>厖大 <adk__>な <ele_1>エネルギ <prp__>を <vrb__>発 <vok__>する <nou__>こと <prp__>が <vrb__>記載 <vok__>されて <vrb__>い <vok__>る <sym__>。 <udf__>
+ <udf__>
+ <udf__>　
+
+
+
+ <udf__>
+ <udf__>
+ <udf__>　
+ <udf__>　 <nou__>非特許文献 <nmb__>１ <prp__>では <sym__>、 <nou__>反物質 <prp__>を <vrb__>生成 <vok__>する <nou__>必要 <prp__>が <udf__>あった。 <nou__>反物質 <prp__>の <nou__>生成 <prp__>には <sym__>、 <znk__>この <nou__>反物質 <prp__>が <nou__>物質 <cnj__>と <udf__>合わさって <ele_1>エネルギ <prp__>を <vrb__>生成 <vok__>する <nou__>以上 <prp__>の <ele_1>エネルギ <prp__>が <nou__>必要 <prp__>で <udf__>あった。 <udf__>
+ <udf__>　
+ <udf__>　そこで、 <nou__>本発明 <prp__>は <sym__>、 <nou__>物質 <prp__>を <udf__>そのまま <ele_1>エネルギ <prp__>に <vrb__>変換 <vok__>する <nou__>こと <prp__>を <nou__>課題 <cnj__>と <udf__>する。 <udf__>
+
+
+
+ <udf__>
+ <udf__>　
+ <udf__>　 <nou__>本発明 <prp__>によれば <sym__>、 <pnn__>高い <nou__>効率 <prp__>で <nou__>物質 <prp__>を <ele_1>エネルギ <prp__>に <vrb__>変換 <vok__>する <nou__>こと <prp__>が <vrb__>でき <vok__>る <sym__>。 <udf__>
+
+
+
+
+ <udf__>
+ <udf__>　
+ <udf__>　 <nou__>図 <nmb__>１ <prp__>は <sym__>、 <nou__>本実施形態 <prp__>の <ele__>物質エネルギ変換装置 <sgn__>１ <prp__>の <nou__>構成図 <prp__>である <sym__>。 <udf__>
+ <udf__>　
+ <udf__>　 <ele__>物質エネルギ変換装置 <sgn__>１ <prp__>は <sym__>、 <ele__>水素入力部 <sgn__>１１ <cnj__>と <sym__>、 <ele__>希土類金属結晶 <sgn__>１２ <cnj__>と <sym__>、 <ele__>磁場形成部 <sgn__>１３ <cnj__>と <sym__>、 <nou__>これら <prp__>を <vrb__>包み込 <vok__>む <ele__>中性子遮蔽部 <sgn__>１４ <cnj__>と <udf__>を <vrb__>備 <vok__>える <sym__>。 <znk__>この <ele__>物質エネルギ変換装置 <sgn__>１ <prp__>は <sym__>、 <nou__>水素原子 <prp__>を <nou__>直接 <prp__>に <ele_1>エネルギ <prp__>に <vrb__>変換 <vok__>する <nou__>もの <prp__>である <sym__>。 <udf__>
+ <udf__>　
+ <udf__>　 <ele__>水素入力部 <sgn__>１１ <prp__>は <sym__>、 <nou__>・・・・・・・・・・・・・・・・・・・・・・・・ <prp__>である <sym__>。 <udf__>
+ <udf__>　
+ <udf__>　 <ele__>希土類金属結晶 <sgn__>１２ <prp__>は <sym__>、 <nou__>・・・・・・・・・・・・・・・・・・・・・・・・ <prp__>であり <sym__>、 <ele__>水素入力部 <sgn__>１１ <prp__>から <vrb__>入力 <vok__>された <nou__>水素 <prp__>を <vrb__>吸収 <vok__>して <vrb__>・・・・・・・・・・・・・・・・・・・・・・・・ <vok__>する <sym__>。 <znk__>この <ele__>希土類金属結晶 <sgn__>１２ <prp__>は <sym__>、 <vrb__>・・・・・・・・・・・・・・・・・・・・・・・ <vok__>する <nou__>こと <prp__>により <sym__>、 <vrb__>・・・・・・・・・ <vok__>する <sym__>。 <udf__>
+ <udf__>　
+ <udf__>　 <ele__>磁場形成部 <sgn__>１３ <prp__>は <sym__>、 <nou__>・・・・・・・・・・・・・・・・・ <prp__>であり <sym__>、 <ele_1>希土類金属結晶 <prp__>の <nou__>１１１ <sfx__>方向 <prp__>の <nou__>磁場 <prp__>を <vrb__>形成 <vok__>して <sym__>、 <nou__>・・・・・・・・・ <cnj__>、 <vrb__>・・・・・・・・・・・・・・・・・・・ <vok__>する <sym__>。 <nou__>これ <prp__>により <sym__>、 <ele__>希土類金属結晶 <sgn__>１２ <prp__>に <vrb__>吸収 <vok__>されて <vrb__>い <vok__>る <nou__>水素原子 <prp__>は <sym__>、 <vrb__>・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ <vok__>する <sym__>。 <udf__>
+ <udf__>　
+ <udf__>　 <ele__>中性子遮蔽部 <sgn__>１４ <prp__>は <sym__>、 <nou__>水素原子 <prp__>の <nou__>エネルギ化 <prp__>に <nou__>伴い <cnj__>、 <ele__>希土類金属結晶 <sgn__>１２ <prp__>から <vrb__>出射 <vok__>される <nou__>中性子線 <prp__>を <vrb__>遮蔽 <vok__>する <sym__>。 <znk__>この <ele__>中性子遮蔽部 <sgn__>１４ <prp__>は <sym__>、 <pnn__>例えば <nou__>・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ <prp__>であり <sym__>、 <vrb__>・・・・・・・・・ <vok__>する <sym__>。 <udf__>
+ <udf__>　 <nou__>図 <nmb__>２ <prp__>は <sym__>、 <ele_1>物質エネルギ変換装置 <prp__>の <nou__>動作 <prp__>を <vrb__>説明 <vok__>する <nou__>図 <prp__>である <sym__>。 <udf__>
+ <udf__>　
+ <udf__>　 <nou__>水素 <prp__>は <sym__>、 <ele__>水素入力部 <sgn__>１１ <prp__>によって <nou__>高圧 <sym__>（ <pnn__>例えば <sym__>、 <nou__>１０万メガパスカル <sym__>） <udf__>に <vrb__>圧縮 <vok__>されて <sym__>、 <ele__>希土類金属結晶 <sgn__>１２ <prp__>が <vrb__>位置 <vok__>する <nou__>炉 <sfx__>内 <prp__>に <vrb__>導 <vok__>かれる <sym__>。 <ele__>希土類金属結晶 <sgn__>１２ <prp__>の <nou__>水素吸収能力 <prp__>により <sym__>、 <nou__>水素 <prp__>は <sym__>、 <ele__>希土類金属結晶 <sgn__>１２ <prp__>に <vrb__>吸収 <vok__>される <sym__>。 <udf__>そして、 <ele__>磁場形成部 <sgn__>１３ <prp__>は <sym__>、 <nou__>・・・・・・・・・・・・・・・・・・・・・ <sym__>。 <nou__>これ <prp__>により <sym__>、 <ele__>希土類金属結晶 <sgn__>１２ <prp__>から <ele_1>エネルギ <prp__>が <vrb__>放出 <vok__>され <sym__>、 <nou__>中性子線 <prp__>が <vrb__>出射 <vok__>される <sym__>。 <udf__>
+ <udf__>　
+ <udf__>　 <ele__>物質エネルギ変換装置 <sgn__>１ <prp__>が <vrb__>変換 <vok__>する <ele__>エネルギ <sgn__>E <prp__>は <sym__>、 <nou__>以下 <prp__>の <nou__>式 <sym__>（ <nmb__>１ <sym__>） <prp__>によって <vrb__>示 <vok__>される <sym__>。 <nou__>但し <cnj__>、 <sgs__>M <prp__>は <nou__>水素 <prp__>の <nou__>質量 <prp__>である <sym__>。 <sgs__>C <prp__>は <nou__>光速 <prp__>である <sym__>。 <udf__>
+ <udf__>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
